@@ -1,0 +1,50 @@
+
+.my {
+	width: 70%;
+	height: 800rpx;
+	margin: 100rpx auto 0;
+	position: relative;
+}
+.my-head {
+	width: 150rpx;
+	height: 150rpx;
+	margin-left: 190rpx;
+}
+.my-head image {
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 50%;
+}
+.from {
+	width: 100%;
+	margin: 20rpx auto;
+}
+.from input {
+	border: #333333 2rpx solid;
+	margin-bottom: 20rpx;
+}
+.from button {
+	margin-bottom: 20rpx;
+}
+.getimg {
+	position: relative;
+	top: -628rpx;
+	height: 500rpx;
+	width: 100%;
+	overflow: hidden;
+	background-color: #FFFDEF;
+}
+.getimg image {
+	width: 80%;
+	height: 80%;
+	position: absolute;
+	top: 32rpx;
+	left: 32rpx;
+}
+.iconfont {
+	position: absolute;
+	right: 12rpx;
+	top: 12rpx;
+	z-index: 10;
+}
+

@@ -1,0 +1,86 @@
+{
+  "id": "2742017",
+  "name": "mussic",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "383677",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "774432",
+      "name": "垃圾",
+      "font_class": "laji",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "995972",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "1132491",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "2261431",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "6874516",
+      "name": "向右三角形",
+      "font_class": "xiangyousanjiaoxing",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "9673157",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11463945",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "17722007",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "18643947",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "21435112",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}

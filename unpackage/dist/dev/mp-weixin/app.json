@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "detail/detail",
+    "pages/search/search",
+    "pages/my/my",
+    "pages/personal/personal"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "UIBackgroundModes": [
+    "audio"
+  ],
+  "usingComponents": {}
+}
